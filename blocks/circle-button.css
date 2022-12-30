@@ -1,0 +1,26 @@
+.circle-button {
+  width: 50px;
+  height: 50px;
+
+  border: 2px #067a46 solid;
+  background-color: #fff;
+  border-radius: 26px;
+
+  background-image: url(../images/Vector.png);
+  background-repeat: no-repeat;
+  background-position: center;
+
+  margin-top: 81px;
+}
+
+.circle-button_left {
+  scale: 80%;
+  transform: rotate(90deg);
+  margin: 0;
+}
+
+.circle-button_right {
+  scale: 80%;
+  transform: rotate(-90deg);
+  margin: 0;
+}

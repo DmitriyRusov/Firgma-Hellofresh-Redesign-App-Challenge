@@ -1,0 +1,32 @@
+.menu {
+  min-width: 85%;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  list-style: none;
+}
+
+.menu__items {
+  margin-right: 25px;
+}
+
+.menu__items:last-child {
+  margin-right: 0;
+}
+
+.menu__links {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #242424;
+
+  text-decoration: none;
+}
+
+.menu__links:hover {
+  opacity: 0.8;
+}
