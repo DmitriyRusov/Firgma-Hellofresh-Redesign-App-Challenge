@@ -29,4 +29,4 @@
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/cabb94c2eb89193257042c0d906a9d92fad8dbe0/soft-svg/Figma.svg" alt="figma" width="50" height="50">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/cabb94c2eb89193257042c0d906a9d92fad8dbe0/soft-svg/visual-studio-code.svg" alt="visual-studio-code" width="50" height="50">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/GIMP.svg" alt="gimp" width="50" height="50">
-</>
+</p>
